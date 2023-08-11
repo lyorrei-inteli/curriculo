@@ -11,7 +11,7 @@ Para facilitar o deployment, o projeto é acompanhado de um Dockerfile que encap
 <a href="https://hub.docker.com/r/lyorrei/curriculo">Meu currículo (clique aqui)</a>
 
 
-Link completo: https://hub.docker.com/r/lyorrei/curriculo"
+Link completo: https://hub.docker.com/r/lyorrei/curriculo
 
 ## Como rodar a aplicação
 
